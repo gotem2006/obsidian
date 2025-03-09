@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/database/SQL CMD.md",
+                "file": "interview/kafka/patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL CMD"
+              "title": "patterns"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/database/SQL CMD.md",
+                "file": "interview/kafka/patterns.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура SQL CMD"
+              "title": "Структура patterns"
             }
           }
         ],
@@ -170,43 +170,43 @@
   },
   "active": "736c6c1aa70d8b88",
   "lastOpenFiles": [
-    "interview/database/SQL.md",
-    "interview/database/SQL CMD.md",
-    "interview/database/масштабирование.md",
-    "interview/golang/types/struct.md",
-    "interview/golang/types/string.md",
-    "interview/golang/types/slice.md",
-    "interview/golang/types/map.md",
+    "interview/system design/микросервисы.md",
+    "interview/system design/монолит.md",
+    "Pasted image 20250309110134.png",
+    "interview/system design/кэширование.md",
+    "interview/patterns/SOLID.md",
+    "interview/kafka/patterns.md",
+    "interview/patterns",
+    "interview/golang/Без названия.md",
+    "interview/kafka/kafka.md",
+    "interview/kafka/delivery guarantees.md",
+    "videos/golang/GC.md",
+    "interview/system design/масштабрование.md",
+    "interview/system design",
+    "videos/golang/map.md",
+    "videos/golang/kafka.md",
+    "videos/golang/slice.md",
+    "videos/golang/allocator.md",
+    "videos/golang/scheduler.md",
+    "tasks/goalng/sync/sync.md",
+    "videos/golang",
+    "videos",
+    "tasks/goalng/slice/slice.md",
+    "tasks/goalng/code review/code review.md",
+    "tasks/goalng/algo/algo.md",
+    "tasks/sql/sql.md",
     "interview/golang/types/Interface.md",
-    "interview/golang/types/int.md",
-    "interview/golang/sync/sync.md",
-    "interview/golang/sync/scheduler.md",
-    "interview/golang/sync/chanles.md",
-    "interview/golang/misc/OOP.md",
-    "interview/golang/misc/defer.md",
-    "interview/golang/misc/context.md",
-    "interview/golang/memory/memory.md",
-    "interview/golang/memory/GC.md",
-    "interview/database/нормализация.md",
+    "tasks/sql",
+    "tasks/Без названия.md",
+    "tasks/goalng/sync",
+    "tasks/goalng/slice",
+    "tasks/goalng/code review",
+    "tasks/goalng/algo",
+    "tasks/goalng/alogi.md",
+    "tasks/goalng",
+    "interview/Без названия.md",
+    "companies/WB/tasks.md",
     "Pasted image 20250307234006.png",
-    "interview/database/ACID.md",
-    "interview/database/index.md",
-    "2025-03-07.md",
-    "Без названия.canvas",
-    "companies/WB/final.md",
-    "companies/Без названия.md",
-    "companies/WB.md",
-    "companies/lamoda",
-    "companies/merlion",
-    "companies/AVITO",
-    "companies/AVITO.md",
-    "companies/OZON/final.md",
-    "companies/OZON",
-    "companies/WB",
-    "companies/WB",
-    "companies",
-    "interview/network",
-    "interview/database/postgres",
-    "interview/database/sql"
+    "Без названия.canvas"
   ]
 }
