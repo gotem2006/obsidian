@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb3f3de964e2c87f",
+        "id": "d3863af2f1d0602f",
         "type": "tabs",
         "children": [
           {
-            "id": "736c6c1aa70d8b88",
+            "id": "51c0e01999964a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/kafka/patterns.md",
+                "file": "companies/WB/tech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "patterns"
+              "title": "tech"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ozon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/kafka/patterns.md",
+                "file": "interview/docker/docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура patterns"
+              "title": "Структура docker"
             }
           }
         ],
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,45 +169,49 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "736c6c1aa70d8b88",
+  "active": "51c0e01999964a18",
   "lastOpenFiles": [
-    "interview/system design/микросервисы.md",
-    "interview/system design/монолит.md",
-    "Pasted image 20250309110134.png",
-    "interview/system design/кэширование.md",
-    "interview/patterns/SOLID.md",
-    "interview/kafka/patterns.md",
-    "interview/patterns",
-    "interview/golang/Без названия.md",
+    "companies/WB/tasks.md",
+    "companies/OZON/screen.md",
+    "companies/OZON/final.md",
     "interview/kafka/kafka.md",
     "interview/kafka/delivery guarantees.md",
-    "videos/golang/GC.md",
-    "interview/system design/масштабрование.md",
-    "interview/system design",
-    "videos/golang/map.md",
-    "videos/golang/kafka.md",
-    "videos/golang/slice.md",
+    "interview/linux/spaces.md",
+    "questions/hz.md",
+    "interview/git/git cmd.md",
     "videos/golang/allocator.md",
+    "videos/golang/GC.md",
+    "videos/golang/map.md",
     "videos/golang/scheduler.md",
-    "tasks/goalng/sync/sync.md",
+    "videos/golang/slice.md",
+    "tasks/sql/sql.md",
+    "Pasted image.md",
+    "tasks/sql/Pasted image 20250309125510.png",
+    "Pasted image 20250307234006.png",
+    "Pasted image 20250309110134.png",
+    "Pasted image 20250309125511.png",
+    "Pasted image 20250309130431.png",
+    "interview/system design/монолит.md",
+    "interview/system design/микросервисы.md",
+    "interview/system design/кэширование.md",
+    "interview/golang/misc/generics.md",
+    "interview/database/index.md",
+    "interview/database/SQL.md",
+    "interview/database/SQL CMD.md",
+    "interview/database/ACID.md",
+    "interview/database/нормализация.md",
+    "interview/database/масштабирование.md",
+    "interview/docker/cmd.md",
+    "interview/git",
+    "interview/docker",
+    "interview/patterns",
+    "interview/system design",
     "videos/golang",
     "videos",
-    "tasks/goalng/slice/slice.md",
-    "tasks/goalng/code review/code review.md",
-    "tasks/goalng/algo/algo.md",
-    "tasks/sql/sql.md",
-    "interview/golang/types/Interface.md",
     "tasks/sql",
-    "tasks/Без названия.md",
     "tasks/goalng/sync",
     "tasks/goalng/slice",
     "tasks/goalng/code review",
-    "tasks/goalng/algo",
-    "tasks/goalng/alogi.md",
-    "tasks/goalng",
-    "interview/Без названия.md",
-    "companies/WB/tasks.md",
-    "Pasted image 20250307234006.png",
     "Без названия.canvas"
   ]
 }
