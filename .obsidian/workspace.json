@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3863af2f1d0602f",
+        "id": "3cde87f5f2834145",
         "type": "tabs",
         "children": [
           {
-            "id": "51c0e01999964a18",
+            "id": "83510c246d42c4a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "companies/WB/tech.md",
+                "file": "interview/network/protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tech"
+              "title": "protocols"
             }
           }
         ]
@@ -169,14 +169,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "51c0e01999964a18",
+  "active": "83510c246d42c4a1",
   "lastOpenFiles": [
+    "interview/network/rest api.md",
+    "interview/network/protocols.md",
+    "interview/linux/spaces.md",
+    "interview/kafka/patterns.md",
+    "interview/kafka/kafka.md",
+    "interview/network/tcp-udp.md",
+    "interview/network/http.md",
+    "interview/network/http 2.md",
+    "interview/network/grpc.md",
+    "companies/WB/tech.md",
     "companies/WB/tasks.md",
     "companies/OZON/screen.md",
     "companies/OZON/final.md",
-    "interview/kafka/kafka.md",
     "interview/kafka/delivery guarantees.md",
-    "interview/linux/spaces.md",
     "questions/hz.md",
     "interview/git/git cmd.md",
     "videos/golang/allocator.md",
@@ -194,14 +202,6 @@
     "interview/system design/монолит.md",
     "interview/system design/микросервисы.md",
     "interview/system design/кэширование.md",
-    "interview/golang/misc/generics.md",
-    "interview/database/index.md",
-    "interview/database/SQL.md",
-    "interview/database/SQL CMD.md",
-    "interview/database/ACID.md",
-    "interview/database/нормализация.md",
-    "interview/database/масштабирование.md",
-    "interview/docker/cmd.md",
     "interview/git",
     "interview/docker",
     "interview/patterns",
